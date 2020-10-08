@@ -2,7 +2,7 @@ package questionBank.b_基础练习;
 
 import java.util.Scanner;
 
-public class b_4_十六进制转十进制 {
+public class b_3_十六进制转十进制 {
 
 
     public static void main(String[] args) {

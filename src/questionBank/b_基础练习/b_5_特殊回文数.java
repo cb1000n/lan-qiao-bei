@@ -5,7 +5,7 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-public class b_3_特殊回文数 {
+public class b_5_特殊回文数 {
     public static void main(String[] args) {
         int n = new Scanner(System.in).nextInt();
         // 自己写的方法
